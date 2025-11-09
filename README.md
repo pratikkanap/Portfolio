@@ -18,8 +18,6 @@ A responsive portfolio website built to showcase my skills, projects, and experi
 
 Frontend:
 
-HTML5, CSS, Javascript, React js
+HTML5, CSS3.
 
-CSS3 / TailwindCSS / Bootstrap (choose one you used)
-
-JavaScript / React.js (if applicable)
+JavaScript / React.js 
